@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1718329504
+::res://::1718329672
 icon.png::CompressedTexture2D::1173201585807753488::1718326660::1718326660::1::::<><>::
 README.md::TextFile::-1::1718326660::0::1::::<><>::
 ::res://Graphics/::1718326660
@@ -15,8 +15,8 @@ gameview.tscn::PackedScene::5571671025209194351::1718327043::0::1::::<><>::uid:/
 ::res://Scenes/Actors/::1718326660
 actor.tscn::PackedScene::9172316619832575543::1718326660::0::1::::<><>::res://Scripts/Actors/actor.gd<>uid://n4h41o7d7rbs::::res://Graphics/Actors/actor_man.png
 player.tscn::PackedScene::2372224242780293769::1718326660::0::1::::<><>::res://Scripts/Actors/player.gd<>uid://n4h41o7d7rbs::::res://Graphics/Actors/actor_man.png
-::res://Scenes/Maps/::1718329169
-world.tscn::PackedScene::5514648243111642840::1718329169::0::1::::<><>::uid://clolt0da1hneb::::res://Graphics/CollisionTiles/actor.png<>uid://dd4o7n2bo12h::::res://Graphics/Tilesets/tileset_dungeon.png<>uid://vwmpi5st1if5::::res://Graphics/CollisionTiles/obstacle.png<>res://Scripts/Grid/grid.gd<>uid://82egl20vpf7n::::res://Scenes/Actors/player.tscn<>uid://d3xeykecmo176::::res://Scenes/Actors/actor.tscn<>res://Scripts/Actors/actor_immobile.gd
+::res://Scenes/Maps/::1718329634
+world.tscn::PackedScene::5514648243111642840::1718329634::0::1::::<><>::uid://clolt0da1hneb::::res://Graphics/CollisionTiles/actor.png<>uid://dd4o7n2bo12h::::res://Graphics/Tilesets/tileset_dungeon.png<>uid://vwmpi5st1if5::::res://Graphics/CollisionTiles/obstacle.png<>res://Scripts/Grid/grid.gd<>uid://82egl20vpf7n::::res://Scenes/Actors/player.tscn<>uid://d3xeykecmo176::::res://Scenes/Actors/actor.tscn<>res://Scripts/Actors/actor_immobile.gd
 ::res://Scripts/::1718326660
 ::res://Scripts/Actors/::1718326660
 actor.gd::GDScript::-1::1718326660::0::1::::<><>::

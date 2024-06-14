@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1718326734
+::res://::1718405288
 icon.png::CompressedTexture2D::1173201585807753488::1718326660::1718326660::1::::<><>::
 README.md::TextFile::-1::1718326660::0::1::::<><>::
 ::res://Graphics/::1718326660
@@ -8,15 +8,19 @@ actor_man.png::CompressedTexture2D::972800117828347304::1718326660::1718326660::
 ::res://Graphics/CollisionTiles/::1718326660
 actor.png::CompressedTexture2D::5574523070719221205::1718326660::1718326660::1::::<><>::
 obstacle.png::CompressedTexture2D::1520137885184959144::1718326660::1718326660::1::::<><>::
-::res://Graphics/Tilesets/::1718326660
+::res://Graphics/Tilesets/::1718406369
+Fences.png::CompressedTexture2D::5693657081323386943::1718405487::1718405487::1::::<><>::
+Grass.png::CompressedTexture2D::4348836112731128412::1718405500::1718405500::1::::<><>::
 tileset_dungeon.png::CompressedTexture2D::218547160139508517::1718326660::1718326660::1::::<><>::
-::res://Scenes/::1718326660
-gameview.tscn::PackedScene::5571671025209194351::1718326660::0::1::::<><>::uid://cktlplg0urpum::::res://Scenes/Maps/world.tscn<>res://Scripts/Dialogue/dialogue_manager.gd<>res://Scripts/Dialogue/writer.gd
+Tilled_Dirt.png::CompressedTexture2D::8185155685723779734::1718405505::1718405505::1::::<><>::
+Wooden House.png::CompressedTexture2D::1878934686566188963::1718406369::1718406369::1::::<><>::
+::res://Scenes/::1718406267
+gameview.tscn::PackedScene::5571671025209194351::1718406267::0::1::::<><>::uid://cktlplg0urpum::::res://Scenes/Maps/world.tscn<>res://Scripts/Dialogue/dialogue_manager.gd<>res://Scripts/Dialogue/writer.gd
 ::res://Scenes/Actors/::1718326660
 actor.tscn::PackedScene::9172316619832575543::1718326660::0::1::::<><>::res://Scripts/Actors/actor.gd<>uid://n4h41o7d7rbs::::res://Graphics/Actors/actor_man.png
 player.tscn::PackedScene::2372224242780293769::1718326660::0::1::::<><>::res://Scripts/Actors/player.gd<>uid://n4h41o7d7rbs::::res://Graphics/Actors/actor_man.png
-::res://Scenes/Maps/::1718326660
-world.tscn::PackedScene::5514648243111642840::1718326660::0::1::::<><>::uid://clolt0da1hneb::::res://Graphics/CollisionTiles/actor.png<>uid://dd4o7n2bo12h::::res://Graphics/Tilesets/tileset_dungeon.png<>uid://vwmpi5st1if5::::res://Graphics/CollisionTiles/obstacle.png<>res://Scripts/Grid/grid.gd<>uid://82egl20vpf7n::::res://Scenes/Actors/player.tscn<>uid://d3xeykecmo176::::res://Scenes/Actors/actor.tscn<>res://Scripts/Actors/actor_immobile.gd
+::res://Scenes/Maps/::1718406267
+world.tscn::PackedScene::5514648243111642840::1718406267::0::1::::<><>::uid://clolt0da1hneb::::res://Graphics/CollisionTiles/actor.png<>uid://dd4o7n2bo12h::::res://Graphics/Tilesets/tileset_dungeon.png<>uid://vwmpi5st1if5::::res://Graphics/CollisionTiles/obstacle.png<>res://Scripts/Grid/grid.gd<>uid://b27uxv5fdk4ce::::res://Graphics/Tilesets/Grass.png<>uid://82egl20vpf7n::::res://Scenes/Actors/player.tscn<>uid://d3xeykecmo176::::res://Scenes/Actors/actor.tscn<>uid://cnebx2rvuycn4::::res://Graphics/Tilesets/Fences.png<>res://Scripts/Actors/actor_immobile.gd
 ::res://Scripts/::1718326660
 ::res://Scripts/Actors/::1718326660
 actor.gd::GDScript::-1::1718326660::0::1::::<><>::
@@ -28,7 +32,7 @@ dialogue_manager.gd::GDScript::-1::1718326660::0::1::::<>Node2D<>::
 writer.gd::GDScript::-1::1718326660::0::1::::<>RichTextLabel<>::
 ::res://Scripts/Grid/::1718326660
 grid.gd::GDScript::-1::1718326660::0::1::::<>TileMap<>::
-::res://Text/::1718326660
+::res://Text/::1718326735
 game_text.csv::Translation::7573741083232375612::1718326660::1718326735::1::::<><>::
 game_text.en.translation::OptimizedTranslation::5286853714355123262::1718326735::0::1::::<><>::
 game_text.fr.translation::OptimizedTranslation::8422398193812071641::1718326735::0::1::::<><>::

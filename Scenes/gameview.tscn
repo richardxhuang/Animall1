@@ -5,15 +5,18 @@
 [ext_resource type="Script" path="res://Scripts/Dialogue/writer.gd" id="3_1b6ll"]
 
 [node name="Node2D" type="Node2D"]
+position = Vector2(-153, -132)
 
 [node name="SubViewportContainer" type="SubViewportContainer" parent="."]
-offset_right = 40.0
-offset_bottom = 40.0
+offset_left = 153.0
+offset_top = 133.0
+offset_right = 665.0
+offset_bottom = 645.0
 
 [node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
 disable_3d = true
 handle_input_locally = false
-size = Vector2i(320, 240)
+size = Vector2i(868, 677)
 render_target_update_mode = 4
 
 [node name="World" parent="SubViewportContainer/SubViewport" instance=ExtResource("1_vcwrr")]
